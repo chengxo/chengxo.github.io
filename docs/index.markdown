@@ -14,11 +14,11 @@ Before my PhD study, I obtained my B.S. degree in Computational Mathematics at P
 I worked with Prof. [Lei Zhang](http://faculty.bicmr.pku.edu.cn/~zhanglei/) and Prof. [Tiejun Li](https://www.math.pku.edu.cn/teachers/litj/). I was mostly interested in mathematical modeling of biological system, which in the end inspires me to study more on stochasticity.
 
 ### Publications
-Yifan Chen, **Xiaoou Cheng**, Jonathan Niles-Weed, Jonathan Weare. Convergence of Unadjusted
+- Yifan Chen, **Xiaoou Cheng**, Jonathan Niles-Weed, Jonathan Weare. Convergence of Unadjusted
 Langevin in High Dimensions: Delocalization of Bias. [arXiv link](https://arxiv.org/abs/2408.13115)
 Preprint.
 
-**Xiaoou Cheng**, Jonathan Weare. The surprising efficiency of temporal difference learning for rare
+- **Xiaoou Cheng**, Jonathan Weare. The surprising efficiency of temporal difference learning for rare
 event prediction. [arXiv link](https://arxiv.org/abs/2405.17638)
 Accepted at NeurIPS 2024.
 
