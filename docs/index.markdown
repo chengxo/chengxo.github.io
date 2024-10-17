@@ -15,11 +15,11 @@ I worked with Prof. [Lei Zhang](http://faculty.bicmr.pku.edu.cn/~zhanglei/) and 
 
 ### Publications
 - Yifan Chen, **Xiaoou Cheng**, Jonathan Niles-Weed, Jonathan Weare. Convergence of Unadjusted
-Langevin in High Dimensions: Delocalization of Bias. [arXiv link](https://arxiv.org/abs/2408.13115)
+Langevin in High Dimensions: Delocalization of Bias. [arXiv link](https://arxiv.org/abs/2408.13115)  
 Preprint.
 
 - **Xiaoou Cheng**, Jonathan Weare. The surprising efficiency of temporal difference learning for rare
-event prediction. [arXiv link](https://arxiv.org/abs/2405.17638)
+event prediction. [arXiv link](https://arxiv.org/abs/2405.17638)  
 Accepted at NeurIPS 2024.
 
 - Atsushi Shimizu, **Xiaoou Cheng**, Christopher Musco, Jonathan Weare. Improved Active Learning via Dependent Leverage Score Sampling. [OpenReview link](https://openreview.net/forum?id=IYxDy2jDFL) [arXiv link](https://arxiv.org/abs/2310.04966)  
