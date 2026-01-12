@@ -7,7 +7,7 @@ layout: home
 
 ![portrait](/assets/images/XiaoouCheng.jpg){:style="float: right; margin-left: 1em; width: 180px;"}
 
-I am a fifth-year PhD student at Courant Institute of Mathematical Sciences, New York University. 
+I am a final-year PhD student at Courant Institute of Mathematical Sciences, New York University. 
 I am fortunate to be advised by Prof. [Jonathan Weare](https://cims.nyu.edu/~weare/).
 
 My research interest is in analysis, design and application of Monte Carlo sampling methods.
